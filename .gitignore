@@ -32,6 +32,17 @@ MANIFEST
 *.manifest
 *.spec
 
+#Project files and folders
+checkpoints/
+config/
+data/processed_frames/
+models/
+notebooks/checkpoints/
+notebooks/data_exploration.ipynb
+screenshots/
+venv/
+
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
