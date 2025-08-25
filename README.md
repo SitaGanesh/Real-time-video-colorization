@@ -312,6 +312,45 @@ python scripts/evaluate_model.py --model checkpoints/best_model.pth --data data/
 
 
 ***
+## Image/Video Walkthrough
+
+1. Input Image Black and White
+
+https://github.com/user-attachments/assets/a9c72a7e-9317-4bce-92b1-bc0a739841dd
+
+2. Output Image Colored
+
+https://github.com/user-attachments/assets/ec77e9ff-36e9-4432-84db-9e5c57bf9395
+
+3. Black and white to color
+   
+![3B Wtocolor](https://github.com/user-attachments/assets/9398f8b1-a868-4e73-a375-32acd91e749c)
+
+1. Black and white video image
+
+![2videoImagegrayscaleImage](https://github.com/user-attachments/assets/6f0b8567-8fb8-419b-b7e3-4cadd3e1c4a6)
+
+2. Image saved in the screenshot folder when we take a screenshot
+
+![1Saved image sceenshort](https://github.com/user-attachments/assets/a2942efb-15a0-487c-b379-1de0b8ed740d)
+
+3. Colorized image
+
+![result](https://github.com/user-attachments/assets/c25e409e-d874-46fc-9372-4743c87553d6)
+
+***
+
+Training Model, which is videos
+
+![5trainingModel](https://github.com/user-attachments/assets/fe732794-2668-4024-a7a6-0d25838c8d7f)
+
+Training conversions
+
+![6b wtogray](https://github.com/user-attachments/assets/3d26572a-0787-4e1e-9003-35e4608cc0e2)
+
+Epochs
+
+![7epochs](https://github.com/user-attachments/assets/2f8bdede-75e3-4b4d-b236-4f9677a96620)
 
 ## 🧠 How It Works
 
